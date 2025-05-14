@@ -45,25 +45,6 @@ Desde que empecé a programar, me he enfocado en aprender tecnologías web desde
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleixbermudez&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixbermudez&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
-## 📂 Proyectos destacados
-
-- [💡 Portafolio Personal](#) – Desarrollado con React + Tailwind, donde muestro mis proyectos, habilidades y contacto.
-- [📱 App de Tareas](#) – App web en Vue.js + PHP + MySQL para gestionar tareas.
-- [🔐 Sistema de Login Seguro](#) – Autenticación con Laravel y políticas de seguridad avanzadas.
-
-> ¿Te interesa colaborar o tienes un proyecto en mente? ¡Estoy abierto a nuevas ideas y retos!
-
----
-
 ## 📫 Contáctame
 
 <p align="center">
