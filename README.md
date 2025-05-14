@@ -1,13 +1,21 @@
 # Aleix Bermúdez 🌐
-Hi! My name is **Aleix Bermúdez**.  
-I am a **Web Application Development** student passionate about technology and building digital solutions. I have worked on several personal projects that have helped me develop skills in languages like **HTML, CSS, JavaScript, PHP, and SQL**.  
 
-I enjoy taking on challenges that allow me to learn new technologies and improve my programming skills. I am continuously growing and looking for opportunities to apply what I've learned in professional environments. I adapt easily to new situations and thrive on finding solutions to complex problems.
+¡Hola! Soy **Aleix Bermúdez**, estudiante de **Desarrollo de Aplicaciones Web** con una pasión desbordante por la tecnología y la creación de soluciones digitales modernas.
+
+Desde que empecé a programar, me he enfocado en aprender tecnologías web desde el frontend hasta el backend, desarrollando proyectos personales que me han permitido fortalecer mis conocimientos en **HTML, CSS, JavaScript, PHP, SQL y frameworks modernos como React, Vue o Laravel**.
 
 ---
 
-## 🛠 Technologies & Tools
-Here are some of the technologies and tools I work with:
+## 🚀 Sobre mí
+
+- 🧠 Siempre aprendiendo: Me encanta experimentar con nuevas tecnologías, metodologías y herramientas.
+- 🔍 Apasionado por resolver problemas complejos con soluciones simples y elegantes.
+- 🌍 En búsqueda de **oportunidades profesionales**, prácticas o colaboración en proyectos reales.
+- ⚙️ Fan de automatizar procesos y trabajar con buenas prácticas de desarrollo.
+
+---
+
+## 🛠 Tecnologías y herramientas
 
 <p align="center">
 <!-- Lenguajes y tecnologías -->
@@ -33,19 +41,49 @@ Here are some of the technologies and tools I work with:
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
-
 </p>
 
 ---
 
-## 📫 Contact Me
-Feel free to reach out to me via the following platforms:
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="www.linkedin.com/in/aleix-bermudez" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=aleixbermudez&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixbermudez&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+## 📂 Proyectos destacados
+
+- [💡 Portafolio Personal](#) – Desarrollado con React + Tailwind, donde muestro mis proyectos, habilidades y contacto.
+- [📱 App de Tareas](#) – App web en Vue.js + PHP + MySQL para gestionar tareas.
+- [🔐 Sistema de Login Seguro](#) – Autenticación con Laravel y políticas de seguridad avanzadas.
+
+> ¿Te interesa colaborar o tienes un proyecto en mente? ¡Estoy abierto a nuevas ideas y retos!
+
+---
+
+## 📫 Contáctame
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aleix-bermudez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aleix.devweb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
+
+## 💡 ¿Por qué contratarme?
+
+- Desarrollo web moderno con enfoque en rendimiento y buenas prácticas.
+- Trabajo en equipo, comunicación clara y mentalidad proactiva.
+- Aprendizaje constante para estar al día con lo último del sector.
+
+---
+
+⭐ Si algo de lo que has visto te ha gustado, ¡no dudes en seguirme o escribirme!
 
