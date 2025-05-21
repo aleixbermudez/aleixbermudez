@@ -1,6 +1,6 @@
 # Aleix Bermúdez 🌐
 
-¡Hola! Soy **Aleix Bermúdez**, estudiante de **Desarrollo de Aplicaciones Web** con una pasión desbordante por la tecnología y la creación de soluciones digitales modernas.
+¡Hola! Soy **Aleix Bermúdez**,**Desarrollador de Aplicaciones Web** con una pasión desbordante por la tecnología y la creación de soluciones digitales modernas.
 
 Desde que empecé a programar, me he enfocado en aprender tecnologías web desde el frontend hasta el backend, desarrollando proyectos personales que me han permitido fortalecer mis conocimientos en **HTML, CSS, JavaScript, PHP, SQL y frameworks modernos como React, Vue o Laravel**.
 
