@@ -44,12 +44,3 @@ Linux · Git · Tailwind CSS · Bootstrap · Postman · Apache · Nginx
 </p>
 
 ---
-
-### 💡 Why Work With Me
-
-- Passion for creating fast, reliable, and user-focused web applications.  
-- Strong sense of responsibility and adaptability in new environments.  
-- Commitment to clean code, performance, and continuous improvement.  
-
----
-
